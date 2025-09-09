@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 20px;
+    
+}
+ 
+h1 {
+    font-size: 130px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(189, 113, 0);
+    font-family: arial, sans-serif;
+}
+
+.container {
+    background-color: rgb(255, 255, 255);
+    width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+ul {
+    padding: 30px;
+}
+
+section img {
+    width: 100%;
+}
